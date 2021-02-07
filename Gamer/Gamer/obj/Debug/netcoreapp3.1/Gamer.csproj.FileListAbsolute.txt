@@ -1,0 +1,13 @@
+C:\Users\Güldüren\source\repos\Gamer\Gamer\bin\Debug\netcoreapp3.1\Gamer.exe
+C:\Users\Güldüren\source\repos\Gamer\Gamer\bin\Debug\netcoreapp3.1\Gamer.deps.json
+C:\Users\Güldüren\source\repos\Gamer\Gamer\bin\Debug\netcoreapp3.1\Gamer.runtimeconfig.json
+C:\Users\Güldüren\source\repos\Gamer\Gamer\bin\Debug\netcoreapp3.1\Gamer.runtimeconfig.dev.json
+C:\Users\Güldüren\source\repos\Gamer\Gamer\bin\Debug\netcoreapp3.1\Gamer.dll
+C:\Users\Güldüren\source\repos\Gamer\Gamer\bin\Debug\netcoreapp3.1\Gamer.pdb
+C:\Users\Güldüren\source\repos\Gamer\Gamer\obj\Debug\netcoreapp3.1\Gamer.csprojAssemblyReference.cache
+C:\Users\Güldüren\source\repos\Gamer\Gamer\obj\Debug\netcoreapp3.1\Gamer.AssemblyInfoInputs.cache
+C:\Users\Güldüren\source\repos\Gamer\Gamer\obj\Debug\netcoreapp3.1\Gamer.AssemblyInfo.cs
+C:\Users\Güldüren\source\repos\Gamer\Gamer\obj\Debug\netcoreapp3.1\Gamer.csproj.CoreCompileInputs.cache
+C:\Users\Güldüren\source\repos\Gamer\Gamer\obj\Debug\netcoreapp3.1\Gamer.dll
+C:\Users\Güldüren\source\repos\Gamer\Gamer\obj\Debug\netcoreapp3.1\Gamer.pdb
+C:\Users\Güldüren\source\repos\Gamer\Gamer\obj\Debug\netcoreapp3.1\Gamer.genruntimeconfig.cache
